@@ -1,2 +1,2 @@
 # Kaggle
-For kaggle competitions to track new techniques and progress
+This repository is used for kaggle competitions to track new techniques and progress
